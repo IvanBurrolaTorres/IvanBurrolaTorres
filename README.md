@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ivan Burrola Torres
 
-<!--
-**IvanBurrolaTorres/IvanBurrolaTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & Backend Engineering (in progress)
 
-Here are some ideas to get you started:
+Focused on building production-ready systems.
+Currently developing strong fundamentals in Python, data structures, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- Python fundamentals
+- Data structures & algorithms
+- Git & terminal mastery
+- Clean code principles
+
+---
+
+## Engineering Goal
+
+Build scalable, measurable, and reproducible systems in cloud environments.
+
+This profile will evolve as projects are built and deployed.
